@@ -1,0 +1,92 @@
+.greeting{
+	text-align: right
+	
+}
+
+.userView{
+	margin-left:80px;
+	display:inline;
+}
+
+.img-responsive{
+	height:75px;
+	width:75px;
+	margin-left:200px;
+	margin-top:15px;
+	display:inline;
+	
+}
+
+.header h3{
+	display:inline;
+    font-weight: 600;
+    margin-left:70px;
+    margin:auto;
+   }
+ 
+ .row{
+    margin-left: 201px;
+    width:1170px;
+    height:650px;
+    background-color:#ebebe0;
+    overflow-y: scroll;
+  }
+  
+  .btn-primary{
+   margin-left:5px;
+   font-family: "BentonSans",Arial;
+   text-decoration:none;
+   border-radius:5px;
+   color:#002165;
+   background-color:#e5e5e5;
+   background-image: linear-gradient(#fff,#e8e8e8);
+   border:1px solid #CCC;
+  }
+  
+  .btn-primary:hover{
+  color:blue;
+  border:black dotted 1px;
+  background-color:#e5e5e5;
+  }
+  
+  
+  .divider{
+    margin-top:15px;
+    margin-left: 201px;
+    margin-right:187px;
+    width:1170px;
+    height:50px;
+    background-color:#000066;
+       
+   }
+   
+   .footer{
+    margin-left: 201px;
+    width:1170px;
+    height:50px;
+   }
+   
+   .response{
+   margin-left:110px;
+   }
+   
+   .response textarea{
+    background-color:white;
+   }
+   
+   #dataKey{
+   font-size: 15px;
+   text-transform:uppercase;
+   }
+   #dataValue{
+   font-size:15px;
+   }
+   #headSpace{
+  margin-bottom:5px;
+  margin-top:5px; 
+   
+  }
+   
+  hr{
+  border-top:1px solid black;
+  } 

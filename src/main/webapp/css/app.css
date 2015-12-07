@@ -1,0 +1,126 @@
+@CHARSET "ISO-8859-1";
+
+.customNoPadRow {
+	padding-bottom: 0px;
+	margin-right: 0px;
+	margin-left: 0px;
+}
+
+.container {
+	width: 100%;
+	padding-right: inherit;
+	padding-left: inherit;
+}
+
+.custom-col {
+	padding-left: 0px;
+	padding-right: 0px;
+}
+
+#contentSec {
+	background-color: #E9E9E9;
+	min-height: 500px;
+}
+
+.hideDisplay {
+	display: none;
+}
+
+#appLogoMain {
+	padding-top: 10px;
+	width: 100%;
+	padding-bottom: 10px;
+	height: 80px;
+	background: linear-gradient(to bottom, #FFFFFF 50%, #DCDDDD);
+}
+
+#appLogo {
+	display: inline-block;
+	float: left;
+	background-repeat: no-repeat;
+	height: 60px;
+	width: 292px;
+	margin-left: 13px;
+	margin-right: 110px;
+}
+
+.applogo {
+	background-image: url('../images/amex-bluebox.jpg');
+	background-size: 23%;
+}
+
+#appBanner {
+	background-repeat: no-repeat;
+	width: 100%;
+	padding: 0;
+	margin: 0;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+.appLoginBannerImg {
+	background-repeat: no-repeat;
+	background: url('../images/banner.jpg');
+	height: 417px;
+}
+
+.mainSec {
+	background-color: #FFFFFF;
+	margin: 20px 110px;
+}
+
+.sectionHeader {
+	padding-top: 25px;
+	padding-left: 2%;
+	padding-right: 2%;
+	height: 60px;
+}
+
+.bottomSeperator {
+	border-bottom: 1px solid #e5e5e5;
+}
+
+.subSection {
+	border: thin solid #DEDEDE;
+}
+
+.invoiceTxt {
+	width: 180px;
+	margin-bottom: 20px;
+}
+
+.btn-Forward {
+	float: right;
+}
+
+.textAreaStyle {
+	width: 320px;
+	margin-bottom: 20px;
+}
+
+.bannerText {
+	width: 100%;
+	position: absolute;
+	text-align: center;
+	font-size: 20px;
+	color: white;
+	margin-top: 135px;
+}
+
+.buttonDiv {
+	position: relative;
+	width: 100%;
+	text-align: center;
+	padding-top: 352px;
+}
+
+.modal-dialog {
+	width: 730px !important;
+	margin: 30px auto;
+}
+
+.bgGradient {
+	background: linear-gradient(to bottom, #FFFFFF 50%, #DCDDDD);
+}

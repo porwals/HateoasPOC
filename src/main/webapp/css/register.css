@@ -1,0 +1,58 @@
+@CHARSET "ISO-8859-1";
+
+.regReminderQuestionDropDown {
+width: 320px;
+height: 40px;
+}
+.regTxt {
+  width: 240px;
+}
+.padbottom20 {
+    padding-bottom:20px;
+}
+.alignRight {
+    display:inline-block;
+    float:right;
+}
+.regStep2Txt {
+  width: 190px;
+  margin-right: 10px;
+}
+.regEmailWidth {
+  width: 393px;
+}
+
+cancelRegisterBtn {
+  width: 166px;
+  font-size: 14px !important;
+}
+
+.continueRegisterBtn {
+	
+	font-size: 16px !important;
+	height: 40px;
+	float: right;
+	margin-right: 12px;
+}
+
+.submitRegisterBtn {
+	
+	width: 250px;
+	font-size: 14px;
+	height: 40px;
+}
+
+.padTop30 {
+	
+	padding-top: 30px;
+}
+
+.submitBtnArrowPos {
+	
+	margin-bottom: -3px;
+}
+
+.registerCol2{
+	position: relative;
+    top: -17px;
+}

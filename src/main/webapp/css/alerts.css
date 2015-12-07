@@ -1,0 +1,152 @@
+/** Alerts **/
+.alert {
+  padding: 17px 20px;
+  padding-right: 40px;
+  margin-top: 10px;
+  margin-bottom: 0px;
+  background-color: #666;
+  color: #FFF;
+  font-size: 0.8125em;
+  position: relative;
+  border-radius:0px;
+}
+.alert.positive {
+  background-color: #008566;
+  padding-left: 50px;
+}
+.alert.negative {
+  background-color: #a33f1f;
+  padding-left: 50px;
+}
+.alert .icon-close {
+  position: absolute;
+  right: 19px;
+  top: 19px;
+}
+.alert .icon-alert-pos {
+  position: absolute;
+  left: 20px;
+  top: 15px;
+}
+.alert .icon-alert-neg {
+  position: absolute;
+  left: 20px;
+  top: 15px;
+}
+
+.iconIcon-closeDark {
+    display: inline-block;
+    float: right;
+    cursor: pointer;
+}
+
+
+.alert.alert-positive {
+  background-color: #008566;
+  padding-left: 50px;
+
+}
+.alert.alert-negative {
+  background-color: #a33f1f;
+  padding-left: 50px;
+}
+
+.alert .icon-alert-positive, .alert .icon-alert-green, .alert .icon-alert-negative, .alert .icon-alert-red , .alert .icon-alert-amber, .alert .icon-alert-gray  {
+  position: absolute;
+  left: 20px;
+  top: 15px;
+}
+
+
+.icon.icon-alert-negative, .icon.icon-alert-red {
+  width: 22px;
+  height: 20px;
+  background-position: 0 -44px;
+}
+.icon.icon-alert-negative.outline , .icon.icon-alert-red.outline{
+  background-position: 0 -22px;
+}
+.icon.icon-alert-positive, .icon.icon-alert-green {
+  width: 22px;
+  height: 23px;
+  background-position: 0 -91px;
+}
+
+.icon.icon-alert-amber {
+  width: 23px;
+  height: 23px;
+  background-position: 0 -1062px;
+}
+
+.icon.icon-alert-gray {
+  width: 23px;
+  height: 23px;
+  background-position: 0 -1062px;
+}
+.icon.icon-alert-positive.outline, .icon.icon-alert-green.outline {
+  background-position: 0 -66px;
+}
+
+.icon.icon-close {
+  width: 13px;
+  height: 13px;
+  cursor: pointer;
+  background-position: 0 -191px;
+}
+.icon.icon-close.dark {
+  background-position: 0 -176px;
+}
+.alert-red{
+
+background-color: #A33F1F;
+padding-left: 50px;
+
+}
+.alert-green{
+
+background-color: #008566;
+padding-left: 50px;
+
+}
+.alert-amber{
+
+background-color: #EA8300;
+padding-left: 50px;
+
+}
+.alert-gray{
+
+background-color: #8C8D8F;
+padding-left: 50px;
+
+}
+
+
+.alert a,.alert a:visited,.alert a:hover{
+
+  color: white;
+  text-decoration: underline;
+}
+
+.alertsQueueRow{
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.first-alert{
+	padding-top:10px;
+}
+
+.no-alert{
+	padding-top:0px;
+}
+
+.errorSection{
+margin: 0px 110px;
+}
+
+.errorSectionPopup{
+padding-top: 0px;
+}
+
+/** End Alerts **/
